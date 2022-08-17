@@ -30,3 +30,8 @@ public class Main {
 # User Story 8 - Emoticon
 
 :smile: :cry: :sparkles:
+
+# User Story 5 - Link
+
+Write ([test](www.test.com))
+[test](www.test.com)
