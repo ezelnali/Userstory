@@ -60,5 +60,4 @@ classDiagram
 ```
 
 ## Userstory 12
-
-<mark >Text highlight</mark> in markdown  
+<mark>Text highlight</mark> test  
