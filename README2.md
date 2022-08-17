@@ -2,6 +2,7 @@
 
 #### by Andreas
 
-````javascript
+```javascript
 const i = 10;
+
 ```
