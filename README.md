@@ -20,7 +20,15 @@
 
 ![test image](https://media.istockphoto.com/photos/lazy-fat-cat-sleeping-on-the-couch-picture-id483799085 "test image") 
 
+## Userstory 6
+
+| Syntax      | Description |
+|:----------- | -----------:|
+| Header      | Title       |
+| Paragraph   | Text        |
 
 
+##Userstory 7
 
-
+I just love **bold text**.
+Italicized text is the *cat's meow*
