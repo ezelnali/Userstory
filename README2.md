@@ -27,4 +27,6 @@ public class Main {
 }
 ```
 
-# User Story
+# User Story 8 - Emoticon
+
+:smile: :cry: :sparkles:
